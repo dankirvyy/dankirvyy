@@ -1,23 +1,26 @@
-# Introduction
+# 👋 Hi, I'm Dan Kirvy!
 
-Hello! My name is **Dan Kirvy Manongsong**. I am an enthusiastic and motivated beginner in the world of software development, eager to build my first projects and grow my skills further. 
+Welcome to my GitHub profile. I'm passionate about technology, coding, and building cool things that make a difference.
 
-I have experience working with a variety of technologies, including:
-- **C#**
-- **Java**
-- **HTML**
-- **JavaScript**
-- **CSS**
-- **Tailwind CSS**
-- **PHP**
-- **MySQL**
+## 🛠️ Technologies & Tools
 
-While I am currently building my foundation and have yet to work on major projects, I am passionate about learning and excited to contribute to real-world applications soon.
+- **Languages:** JavaScript, Python, TypeScript, Java
+- **Web:** React, Node.js, Express, HTML/CSS
+- **Tools:** Git, VS Code, Docker, Linux
 
-Outside of programming, I enjoy playing online games and watching anime, which help me relax and inspire my creativity.
+## 🌱 What I'm Working On
 
-Feel free to reach out to me:
-- **Email:** dankirvymanongsong@gmail.com
+- Exploring new frameworks and cloud technologies
+- Building open-source projects and learning new things every day
+
+## 📈 GitHub Stats
+
+![Dan Kirvy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dankirvyy&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/) (add your link!)
+- [Twitter](https://twitter.com/) (add your handle!)
 - **Contact Number:** 0916-323-5812
 
 I am always open to learning opportunities and collaborations!
